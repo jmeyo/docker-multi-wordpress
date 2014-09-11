@@ -1,0 +1,5 @@
+# name of the instance to install wordpress in
+wordpress_appname=exampleblog
+
+# language of the wordpress instance (only for wordpress <4.0)
+wordpress_lang=fr_FR

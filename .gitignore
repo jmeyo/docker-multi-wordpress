@@ -1,5 +1,7 @@
 # do not track personal public ssh key
 config/id_rsa.pub
 
+.idea/*
+
 # do not track specific instances neither ;)
-./wordpress-config/wordpress-instances/*
+wordpress-config/wordpress-instances/*.conf
